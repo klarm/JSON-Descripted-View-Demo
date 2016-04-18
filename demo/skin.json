@@ -1,0 +1,101 @@
+{
+    "name": "QYLayoutVertical",
+    "size": "400,500",
+    "children": [
+                 {
+                 "name": "QYLayoutHorizontal",
+                 "size": "400,60",
+                 "children": [
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "5,1,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "15,6,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "8,3,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "1,5,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "25,2,8,5"
+                              }
+                              ]
+                 },
+                 {
+                 "name": "QYLayoutVertical",
+                 "size": "300,250",
+                 "children": [
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "5,16,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "15,26,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "15,36,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "15,46,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "5,56,8,5"
+                              }
+                              ]
+                 },
+                 {
+                 "name": "QYLayoutHorizontal",
+                 "size": "220,80",
+                 "children": [
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "5,6,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35",
+                              "padding" : "35,6,8,5"
+                              },
+                              {
+                              "name": "QYButton",
+                              "text": "按钮测试",
+                              "size": "60,35"
+                              }
+                              ]
+                 }
+                 ]
+}
