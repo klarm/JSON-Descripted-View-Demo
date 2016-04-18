@@ -5,6 +5,11 @@ JSON Descripted View Demo for iOS
 - support size attribute
 - support padding attribute
 
-page data structure
-![1](http://7xt49n.com1.z0.glb.clouddn.com/PageData.png)
+page data structure:
+
+![page data structure](http://7xt49n.com1.z0.glb.clouddn.com/PageData.png)
+
+UI screen shot:
+
+![UI screen shot](http://7xt49n.com1.z0.glb.clouddn.com/SimulatorScreenShot.png)
 
